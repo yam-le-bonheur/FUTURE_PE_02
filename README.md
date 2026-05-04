@@ -1,7 +1,7 @@
 # FUTURE_PE_02 - AI Content Marketing using UGC Ads
 
-**Intern Name:** [TON NOM COMPLET]  
-**CIN:** [TON CIN]  
+**Intern Name:** ALLARASSEM BONHEUR
+**CIN:** FIT/MARS26/PE2177 
 **Track:** Prompt Engineering (PE)  
 **Task:** 2 - AI Content Marketing using UGC Ads
 
