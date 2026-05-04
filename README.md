@@ -1,24 +1,28 @@
 # FUTURE_PE_02 - AI Content Marketing using UGC Ads
 
-**Intern Name:** ALLARASSEM BONHEUR
-**CIN:** FIT/MARS26/PE2177 
+**Intern Name:** [ALLARASSEM BONHEUR]  
+**CIN:** [ FIT/MARS26/PE2177]  
 **Track:** Prompt Engineering (PE)  
-**Task:** 2 - AI Content Marketing using UGC Ads
+**Task Number:** 2
 
-## 🎯 Projet Réalisé
-Pack complet de contenu **UGC Ads** généré par IA pour la marque fictive **LumiGlow** (Skincare naturel africain).
+## Project Overview
+This project is a complete **UGC Ad Content Pack** generated using structured AI prompts for **LumiGlow**, a D2C natural skincare brand.
 
-**Produit mis en avant :** LumiGlow Radiance Face Serum (Sérum illuminateur à base de Baobab, Niacinamide & Vitamine C).
+**Product:** LumiGlow Radiance Face Serum (Natural ingredients: Baobab, Niacinamide, Vitamin C)
 
-**Objectif :** Créer du contenu authentique, conversationnel et orienté conversion pour Instagram, Facebook et YouTube Shorts.
+**Goal:** Create authentic, high-converting UGC-style ads focused on real transformation and strong CTAs.
 
-## 📦 Contenu Livré
-- 12 Hooks scroll-stopping
-- 5 Scripts UGC complets (15-30 secondes)
-- 10 Captions optimisées par plateforme
-- Stratégie d’adaptation multi-plateformes
-- Prompts structurés utilisés (transparents)
+## Skills Demonstrated
+- Advanced prompt engineering for marketing content
+- UGC ad scripting & psychology
+- Multi-platform content adaptation
+- Conversion-focused copywriting
 
-**Outils utilisés :** Claude + ChatGPT + Google Docs + GitHub
+## Deliverables Included
+- 12 Scroll-stopping hooks
+- 5 Full UGC ad scripts
+- 10 Ready-to-post captions
+- Platform-specific adaptations
+- All prompts used (transparency)
 
-**Focus :** Ton authentique UGC + psychologie publicitaire + fort CTA.
+**Tools Used:** Claude, ChatGPT, Google Docs, GitHub
